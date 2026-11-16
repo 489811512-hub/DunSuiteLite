@@ -1,0 +1,11 @@
+/dist/
+/confused/
+/_buildtemp/
+/tools/
+/*.exe
+/*.pdb
+/dpc.sys
+.vs/
+*.user
+*.suo
+Thumbs.db
